@@ -82,7 +82,8 @@ Dave Linton 2024
 	
 	const marker = L.icon({
 		iconUrl: 'marker.svg',
-		iconAnchor:   [14, 48]
+		iconAnchor:  [12, 48],
+		popupAnchor: [3, -18]
 		});
 
 	markers.addLayer(L.marker(site, {icon: marker, title: hoverText}).bindPopup(clickText).openPopup().addTo(map));
