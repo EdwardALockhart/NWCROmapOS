@@ -1,9 +1,0 @@
-<svg width="30" height="48" xmlns="http://www.w3.org/2000/svg">
- <g>
-  <circle r="13" cx="15" cy="24" stroke-width="3" stroke="white" fill="white" fill-opacity="null"/>
-  <polygon points="15,48 6,24 25,24" fill="white" />
-  <polygon points="15,46 11,24 19,24" fill="#fc5353" />
-  <circle r="10" cx="15" cy="24" stroke-width="4" stroke="#fc5353" fill="white"/>
-  <circle r="4"  cx="15" cy="24" stroke-width="5" fill="#fc5353"/>
- </g>
-</svg>
